@@ -1,0 +1,10 @@
+*.RData
+*.RDS
+*.RDS
+*.csv
+*.xlsx
+*.xls
+*.Rhistory
+*.RHistory
+*.Rproj
+*.Rproj.user
